@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Ati
 // @namespace    https://github.com/itachineuchixa/extension/blob/main/update.js
-// @version      0.2
+// @version      0.3
 // @downloadURL https://raw.githubusercontent.com/itachineuchixa/extension/main/update.js
 // @updateURL  https://raw.githubusercontent.com/itachineuchixa/extension/main/update.js
 // @description  try to take over the world!
