@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Ati
-// @namespace    https://github.com/itachineuchixa/extension/new/main
+// @namespace    https://github.com/itachineuchixa/extension/blob/main/update.js
 // @version      0.2
-// @updateURL  https://raw.githubusercontent.com/itachineuchixa/extension/main/update.js
 // @downloadURL https://raw.githubusercontent.com/itachineuchixa/extension/main/update.js
+// @updateURL  https://raw.githubusercontent.com/itachineuchixa/extension/main/update.js
 // @description  try to take over the world!
 // @author       You
 // @match        https://*/*
