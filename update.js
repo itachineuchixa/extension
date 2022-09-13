@@ -3,7 +3,6 @@
 // @namespace    https://github.com/itachineuchixa/extension/new/main
 // @version      0.1
 // @description  try to take over the world!
-//@updateURL https://raw.githubusercontent.com/itachineuchixa/extension/main/update
 // @author       You
 // @match        https://*/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=ati.su
