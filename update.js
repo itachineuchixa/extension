@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Ati
 // @namespace    https://github.com/itachineuchixa/extension/blob/main/update.js
-// @version      0.3
+// @version      0.4
 // @downloadURL https://raw.githubusercontent.com/itachineuchixa/extension/main/update.js
 // @updateURL  https://raw.githubusercontent.com/itachineuchixa/extension/main/update.js
 // @description  try to take over the world!
@@ -26,4 +26,3 @@ document.querySelector("body > div.page-content > main > div:nth-child(6) > div"
 document.querySelector("#footer").remove();
 getElementByXpath("/html/body/div[4]/main/div[3]/section").remove()
 document.querySelector("body > div.page-content > main > div:nth-child(8) > section").remove()}, 6000)
-console.log('a')
