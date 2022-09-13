@@ -1,7 +1,9 @@
 // ==UserScript==
 // @name         Ati
 // @namespace    https://github.com/itachineuchixa/extension/new/main
-// @version      0.1
+// @version      0.2
+// @updateURL  https://raw.githubusercontent.com/itachineuchixa/extension/main/update.js
+// @downloadURL https://raw.githubusercontent.com/itachineuchixa/extension/main/update.js
 // @description  try to take over the world!
 // @author       You
 // @match        https://*/*
@@ -24,4 +26,4 @@ document.querySelector("body > div.page-content > main > div:nth-child(6) > div"
 document.querySelector("#footer").remove();
 getElementByXpath("/html/body/div[4]/main/div[3]/section").remove()
 document.querySelector("body > div.page-content > main > div:nth-child(8) > section").remove()}, 6000)
-console.log('f');
+console.log('f')
