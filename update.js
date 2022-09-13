@@ -25,4 +25,4 @@ document.querySelector("body > div.page-content > div").remove();
 document.querySelector("body > div.page-content > main > div:nth-child(6) > div").remove()
 document.querySelector("#footer").remove();
 getElementByXpath("/html/body/div[4]/main/div[3]/section").remove()
-document.querySelector("body > div.page-content > main > div:nth-child(8) > section").remove()}, 6000)
+document.querySelector("body > div.page-content > main > div:nth-child(8) > section").remove()}, 8000)
