@@ -27,5 +27,4 @@ setTimeout(function(){try{document.querySelector("body > div.page-content > main
 setTimeout(function(){try{document.querySelector("#footer").remove()}catch{}}, 6000)
 setTimeout(function(){try{getElementByXpath("/html/body/div[1]").remove()}catch{}}, 6000)
 setTimeout(function(){try{getElementByXpath("/html/body/div[4]/main/div[3]/section").remove()}catch{}}, 6000)
-setTimeout(function(){try{getElementByXpath("/html/body/div[3]/div[2]/div/div/main/div[2]/div/div[2]").remove()}catch{}}, 6000)
 setTimeout(function(){try{document.querySelector("body > div.page-content > main > div:nth-child(8) > section").remove()}catch{}}, 6000)
