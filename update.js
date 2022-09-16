@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name         Ati
 // @namespace    https://github.com/itachineuchixa/extension/blob/main/update.js
-// @version      0.6
+// @version      0.7
 // @downloadURL https://raw.githubusercontent.com/itachineuchixa/extension/main/update.js
 // @updateURL  https://raw.githubusercontent.com/itachineuchixa/extension/main/update.js
 // @description  try to take over the world!
 // @author       You
-// @match        https://ati.su/*
+// @match        https://*ati.su/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=ati.su
 // @grant        none
 // ==/UserScript==
