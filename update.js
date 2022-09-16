@@ -6,7 +6,7 @@
 // @updateURL  https://raw.githubusercontent.com/itachineuchixa/extension/main/update.js
 // @description  try to take over the world!
 // @author       You
-// @match        https://*/*
+// @match        https://ati.su/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=ati.su
 // @grant        none
 // ==/UserScript==
